@@ -3,7 +3,9 @@ import java.util.Arrays;
 public class Main {
 
   public static void main(String[] args) {
+    // Arbitrary array used for testing purposes
     int[] array = { 4, 6, 8, 9, 2, 92, 29, 16, 11, 7, 3, 22, 1 };
+    // Arbitrary value x used for testing purposes
     int x = 6;
 
     int[] answer = returnFirstX(array, x);

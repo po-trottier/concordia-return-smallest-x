@@ -1,8 +1,8 @@
 # Return Smallest X Algorithm
 
-This algorithm returns the smallest *x* elements of an array. 
+This algorithm returns the smallest *x* elements of an array (sorted) by using no library calls other than for the print statement. 
 
-It has a horrible time complexity but a space complexity of O(n).
+It has a horrible time complexity but an auxiliary space complexity of O(n).
 
 ---
 
